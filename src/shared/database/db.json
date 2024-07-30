@@ -1,0 +1,675 @@
+{
+  "admin": [
+    {
+      "id": "1",
+      "admin_name": "Dhansih",
+      "admin_password": "admin",
+      "admin_email": "admin@gmail.com",
+      "admin_gender": "male"
+    },
+    {
+      "id": "c045",
+      "admin_name": "Admin2",
+      "admin_password": "12345678",
+      "admin_email": "admin2@gmail.com",
+      "admin_gender": "female"
+    },
+    {
+      "id": "00bc",
+      "admin_name": "admin3",
+      "admin_password": "1234567890",
+      "admin_email": "admin3@gmail.com",
+      "admin_gender": "other"
+    },
+    {
+      "id": "94fd",
+      "admin_name": "admin",
+      "admin_password": "123456",
+      "admin_email": "admin3@gmail.com",
+      "admin_gender": "male"
+    }
+  ],
+  "student": [
+    {
+      "id": "1",
+      "student_name": "Dhansih",
+      "student_password": "Dhansih",
+      "student_email": "dhanish@gmail.com",
+      "student_gender": "male",
+      "results": [
+        {
+          "examName": "Java",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "student_name": "Hamsavanan",
+      "student_password": "Dhansih",
+      "student_email": "hamsavanan@gmail.com",
+      "student_gender": "male",
+      "results": [
+        {
+          "examName": "Python",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "student_name": "Gokul",
+      "student_password": "Dhansih",
+      "student_email": "gokul@gmail.com",
+      "student_gender": "male",
+      "results": [
+        {
+          "examName": "Python",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "student_name": "Karuppu",
+      "student_password": "Dhansih",
+      "student_email": "karuppu@gmail.com",
+      "student_gender": "male",
+      "results": [
+        {
+          "examName": "Java",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "student_name": "Dhanish Kumar",
+      "student_password": "dhansin1234",
+      "student_email": "dhanishkumar3003@gmail.corn",
+      "student_gender": "male",
+      "results": [
+        {
+          "examName": "JAVA",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": "808f",
+      "student_name": "Dhanish Kumar",
+      "student_password": "12345678",
+      "student_email": "dhanishkumar3003@gmail.comic",
+      "student_gender": "male",
+      "results": [
+        {
+          "examName": "Python",
+          "score": 6
+        },
+        {
+          "examName": "Python",
+          "score": 1
+        },
+        {
+          "examName": "Python",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": "f368",
+      "student_name": "kata",
+      "student_password": "12345678",
+      "student_email": "kata@gmail.com",
+      "student_gender": "male",
+      "results": [
+        {
+          "examName": "JAVA",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": "b1a4",
+      "student_name": "Karuppu",
+      "student_password": "12345678",
+      "student_email": "karrupuiyya@gmail.com",
+      "student_gender": "male",
+      "results": [
+        {
+          "examName": "JAVA",
+          "score": 4
+        },
+        {
+          "examName": "Test",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": "b92f",
+      "student_name": "testuser",
+      "student_password": "12345678",
+      "student_email": "testuser@gmail.com",
+      "student_gender": "other",
+      "results": []
+    },
+    {
+      "id": "ae2e",
+      "student_name": "testuser",
+      "student_password": "12345678",
+      "student_email": "testuser@gmail.com",
+      "student_gender": "other",
+      "results": []
+    },
+    {
+      "id": "8611",
+      "student_name": "testuser",
+      "student_password": "12345678",
+      "student_email": "karuppu123@gmail.com",
+      "student_gender": "other",
+      "results": [
+        {
+          "examName": "Java",
+          "score": 5
+        },
+        {
+          "examName": "Angular",
+          "score": 1
+        },
+        {
+          "examName": "Python",
+          "score": 6
+        }
+      ]
+    },
+    {
+      "id": "4590",
+      "student_name": "king",
+      "student_password": "123456",
+      "student_email": "king@gmail.com",
+      "student_gender": "male",
+      "results": [
+        {
+          "examName": "Java",
+          "score": 4
+        },
+        {
+          "examName": "Java",
+          "score": 6
+        },
+        {
+          "examName": "React",
+          "score": 7
+        },
+        {
+          "examName": "Java",
+          "score": 2
+        },
+        {
+          "examName": "Python",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "teacher": [
+    {
+      "id": "1",
+      "teacher_name": "PanchaSheel",
+      "teacher_password": "PanchaSheel",
+      "teacher_email": "panchasheel@gmail.com",
+      "teacher_gender": "male"
+    },
+    {
+      "id": "2",
+      "teacher_name": "Kishore",
+      "teacher_password": "Kishore",
+      "teacher_email": "Kishore@gmail.com",
+      "teacher_gender": "male"
+    },
+    {
+      "id": "3",
+      "teacher_name": "Prag",
+      "teacher_password": "Prag",
+      "teacher_email": "prag@gmail.com",
+      "teacher_gender": "male"
+    },
+    {
+      "id": "683a",
+      "teacher_name": "Dhanish Kumar",
+      "teacher_password": "12345678",
+      "teacher_email": "dhanishkumar3003@gmail.com",
+      "teacher_gender": "male"
+    },
+    {
+      "id": "4f21",
+      "teacher_name": "Dhanish Kumar",
+      "teacher_password": "12345678",
+      "teacher_email": "dhanishkumar3003@gmail.concert",
+      "teacher_gender": "male"
+    },
+    {
+      "id": "0a12",
+      "teacher_name": "jaya",
+      "teacher_password": "12345678",
+      "teacher_email": "jaya@gmail.com",
+      "teacher_gender": "female"
+    },
+    {
+      "id": "6f07",
+      "teacher_name": "parag",
+      "teacher_password": "12345678",
+      "teacher_email": "para@gmail.com",
+      "teacher_gender": "male"
+    }
+  ],
+  "voucher": [
+    {
+      "id": "1",
+      "voucher_number": 12345
+    },
+    {
+      "id": "2",
+      "voucher_number": 23456
+    },
+    {
+      "id": "3",
+      "voucher_number": 34567
+    }
+  ],
+  "tests": [
+    {
+      "id": "db75",
+      "examId": "1",
+      "examName": "Java",
+      "examstatus": true,
+      "questions": [
+        {
+          "questionId": "1",
+          "question": "What is Java Springboot?",
+          "options": [
+            "Framework",
+            "Language",
+            "Library",
+            "NOTA"
+          ],
+          "correctAnswer": "Framework"
+        },
+        {
+          "questionId": "2",
+          "question": "Which company originally developed Java?",
+          "options": [
+            "Microsoft",
+            "Sun Microsystems",
+            "Apple",
+            "IBM"
+          ],
+          "correctAnswer": "Sun Microsystems"
+        },
+        {
+          "questionId": "3",
+          "question": "What is the extension of Java bytecode files?",
+          "options": [
+            ".java",
+            ".class",
+            ".exe",
+            ".txt"
+          ],
+          "correctAnswer": ".class"
+        },
+        {
+          "questionId": "4",
+          "question": "Which of the following is not a Java feature?",
+          "options": [
+            "Object-oriented",
+            "Portable",
+            "Use of pointers",
+            "Dynamic"
+          ],
+          "correctAnswer": "Use of pointers"
+        },
+        {
+          "questionId": "5",
+          "question": "What is the size of an int variable in Java?",
+          "options": [
+            "8-bit",
+            "16-bit",
+            "32-bit",
+            "64-bit"
+          ],
+          "correctAnswer": "32-bit"
+        },
+        {
+          "questionId": "6",
+          "question": "Which method is the entry point for a standalone Java application?",
+          "options": [
+            "main",
+            "start",
+            "run",
+            "init"
+          ],
+          "correctAnswer": "main"
+        },
+        {
+          "questionId": "7",
+          "question": "Which of the following is a superclass of every class in Java?",
+          "options": [
+            "ArrayList",
+            "Object",
+            "Catch",
+            "Thread"
+          ],
+          "correctAnswer": "Object"
+        },
+        {
+          "questionId": "8",
+          "question": "Which keyword is used to create a subclass in Java?",
+          "options": [
+            "extends",
+            "implements",
+            "super",
+            "this"
+          ],
+          "correctAnswer": "extends"
+        },
+        {
+          "questionId": "9",
+          "question": "What is the default value of a boolean variable in Java?",
+          "options": [
+            "false",
+            "false",
+            "0",
+            "null"
+          ],
+          "correctAnswer": "false"
+        },
+        {
+          "questionId": "10",
+          "question": "Which of the following is not an access modifier in Java?",
+          "options": [
+            "public",
+            "protected",
+            "private",
+            "internal"
+          ],
+          "correctAnswer": "internal"
+        }
+      ]
+    },
+    {
+      "id": "db76",
+      "examId": "2",
+      "examName": "Python",
+      "examstatus": true,
+      "questions": [
+        {
+          "questionId": "1",
+          "question": "What is the keyword used to define a function in Python?",
+          "options": [
+            "func",
+            "define",
+            "def",
+            "function"
+          ],
+          "correctAnswer": "def"
+        },
+        {
+          "questionId": "2",
+          "question": "What data structure does a set use?",
+          "options": [
+            "List",
+            "Tuple",
+            "Dictionary",
+            "Hash table"
+          ],
+          "correctAnswer": "Hash table"
+        },
+        {
+          "questionId": "3",
+          "question": "Which of the following is a mutable data type in Python?",
+          "options": [
+            "String",
+            "Tuple",
+            "List",
+            "Integer"
+          ],
+          "correctAnswer": "List"
+        },
+        {
+          "questionId": "4",
+          "question": "How do you create a virtual environment in Python?",
+          "options": [
+            "virtualenv create",
+            "python -m venv",
+            "env create",
+            "venv start"
+          ],
+          "correctAnswer": "python -m venv"
+        },
+        {
+          "questionId": "5",
+          "question": "Which of the following is used to handle exceptions in Python?",
+          "options": [
+            "try/except",
+            "catch",
+            "handle",
+            "error"
+          ],
+          "correctAnswer": "try/except"
+        },
+        {
+          "questionId": "6",
+          "question": "What is the output of the expression 3**2 in Python?",
+          "options": [
+            "6",
+            "9",
+            "3",
+            "8"
+          ],
+          "correctAnswer": "9"
+        },
+        {
+          "questionId": "7",
+          "question": "Which of the following is a framework for web development in Python?",
+          "options": [
+            "Django",
+            "React",
+            "Spring",
+            "Laravel"
+          ],
+          "correctAnswer": "Django"
+        },
+        {
+          "questionId": "8",
+          "question": "What is the output of 'Hello, World!'[1]?",
+          "options": [
+            "H",
+            "e",
+            "l",
+            "o"
+          ],
+          "correctAnswer": "e"
+        },
+        {
+          "questionId": "9",
+          "question": "Which keyword is used to start a loop in Python?",
+          "options": [
+            "repeat",
+            "while",
+            "loop",
+            "iterate"
+          ],
+          "correctAnswer": "while"
+        },
+        {
+          "questionId": "10",
+          "question": "How do you comment a single line in Python?",
+          "options": [
+            "//",
+            "/*",
+            "#",
+            "!!"
+          ],
+          "correctAnswer": "#"
+        }
+      ]
+    },
+    {
+      "id": "db77",
+      "examId": "3",
+      "examName": "React",
+      "examstatus": false,
+      "questions": [
+        {
+          "questionId": "1",
+          "question": "What is React primarily used for?",
+          "options": [
+            "Server-side rendering",
+            "Mobile app development",
+            "Building user interfaces",
+            "Database management"
+          ],
+          "correctAnswer": "Building user interfaces"
+        },
+        {
+          "questionId": "2",
+          "question": "Who developed React?",
+          "options": [
+            "Google",
+            "Facebook",
+            "Microsoft",
+            "Twitter"
+          ],
+          "correctAnswer": "Facebook"
+        },
+        {
+          "questionId": "3",
+          "question": "Which method is used to update the state in a React component?",
+          "options": [
+            "setState",
+            "updateState",
+            "changeState",
+            "modifyState"
+          ],
+          "correctAnswer": "setState"
+        },
+        {
+          "questionId": "4",
+          "question": "What is JSX?",
+          "options": [
+            "JavaScript XML",
+            "JavaScript eXtension",
+            "JSON XML",
+            "Java Syntax Extension"
+          ],
+          "correctAnswer": "JavaScript XML"
+        },
+        {
+          "questionId": "5",
+          "question": "How do you create a React component using a function?",
+          "options": [
+            "component MyComponent()",
+            "function MyComponent()",
+            "React.createComponent()",
+            "create MyComponent()"
+          ],
+          "correctAnswer": "function MyComponent()"
+        },
+        {
+          "questionId": "6",
+          "question": "Which of the following is a hook in React?",
+          "options": [
+            "useState",
+            "useEffect",
+            "useContext",
+            "All of the above"
+          ],
+          "correctAnswer": "All of the above"
+        },
+        {
+          "questionId": "7",
+          "question": "What is the default port for running a React application?",
+          "options": [
+            "3000",
+            "8000",
+            "5000",
+            "4000"
+          ],
+          "correctAnswer": "3000"
+        },
+        {
+          "questionId": "8",
+          "question": "How do you pass data from a parent component to a child component in React?",
+          "options": [
+            "State",
+            "Props",
+            "Functions",
+            "Methods"
+          ],
+          "correctAnswer": "Props"
+        },
+        {
+          "questionId": "9",
+          "question": "Which command is used to create a new React application?",
+          "options": [
+            "npm new react-app",
+            "npx create-react-app",
+            "npm create-react-app",
+            "npx new react-app"
+          ],
+          "correctAnswer": "npx create-react-app"
+        },
+        {
+          "questionId": "10",
+          "question": "How do you handle forms in React?",
+          "options": [
+            "Using HTML forms",
+            "Using Formik",
+            "Using Redux",
+            "Using forms.js"
+          ],
+          "correctAnswer": "Using Formik"
+        }
+      ]
+    },
+    {
+      "id": "0c6b",
+      "examId": "4",
+      "examName": "Angular",
+      "examstatus": false,
+      "questions": [
+        {
+          "questionId": "1",
+          "question": "What is angular",
+          "options": [
+            "Framework",
+            "Languagle",
+            "Models",
+            "Library"
+          ],
+          "correctAnswer": "Framework"
+        }
+      ]
+    },
+    {
+      "id": "d3f4",
+      "examId": "5",
+      "examName": "Test",
+      "examstatus": false,
+      "questions": [
+        {
+          "questionId": "5",
+          "question": "What is angular",
+          "options": [
+            "Framework",
+            "Languagle",
+            "Model",
+            "Library"
+          ],
+          "correctAnswer": "Framework"
+        }
+      ]
+    }
+  ]
+}
